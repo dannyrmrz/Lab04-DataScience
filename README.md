@@ -7,7 +7,7 @@ Sentinel-2, para el curso CC3084 Data Science (UVG, Semestre II 2026).
 
 | Archivo | Descripción |
 |---|---|
-| `Lab04_Cianobacteria.ipynb` | Notebook principal (ejercicios 1 al 4) |
+| `Lab04_Cianobacteria.ipynb` | Notebook principal |
 | `data/geojson/` | Polígonos de las áreas de interés de cada lago |
 | `data/raw/` | Escenas descargadas de Sentinel-2 (no se versionan, se regeneran) |
 | `data/resultados/` | Serie temporal en CSV y figuras generadas |
