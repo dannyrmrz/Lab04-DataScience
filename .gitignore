@@ -1,0 +1,13 @@
+# Datos crudos descargados de Sentinel-2 (pesados, se regeneran con el notebook)
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Credenciales
+credentials.json
+.env
