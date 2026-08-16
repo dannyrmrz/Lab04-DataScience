@@ -1,4 +1,5 @@
 # Laboratorio 4 — Análisis de Datos GeoEspaciales
+[**Informe documento**]([./docs/filename.extension](https://docs.google.com/document/d/1zjtDyvFMACIKLZ20XZ5QZWugKIRYc8SXzij1XTNCaxc/edit?usp=sharing))
 
 Detección de cianobacteria en los lagos de **Atitlán** y **Amatitlán** con imágenes
 Sentinel-2, para el curso CC3084 Data Science (UVG, Semestre II 2026).
